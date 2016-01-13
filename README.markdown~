@@ -1,0 +1,9 @@
+##AUTO SMS GSM MODEM VEHICLE SECURITY
+This Project is about Realizing a Automatic Vehicle Lock System.I have used ATMega8 IC and the code is written in Embedded C.For dumping the Hex File I have used the eXtreme Burner AVR.The circuit diagram and the Flowchart for the project is given below.
+
+You can get the Circuit diagram and flowchart in this link.
+
+#Deploying the Code
+I have used the Atmel Studio IDE for writing and building the code.
+
+
